@@ -2,6 +2,8 @@
 
 ● Utilizar React Router para controlar rutas y redireccionamientos.
 ● Utilizar Context API almacenar y modificar el estado global.
+
+
 Link a sitio web: https://verdant-custard-fc885d.netlify.app/
 
 La pizzería italiana Mamma Mia! SPA le solicita realizar su aplicación web para mostrar y
