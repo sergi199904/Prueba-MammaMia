@@ -1,6 +1,8 @@
 .galeria {
     display: grid;
-    gap: 10px;
+    gap: 20px;
+    justify-content:space-between; 
+    align-items: center;
 }
 
 .grid-columns-3 {
